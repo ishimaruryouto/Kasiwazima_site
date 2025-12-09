@@ -9,9 +9,11 @@
 }
 
 .nav {
-    width: min(100%, 1200px);
+    width: min(100%);
     margin: 0 auto;
-    padding: 0 32px;
+    padding: 0 80px;
+
+    // border: 1px solid tomato;
 
     display: flex;
     justify-content: space-between;
